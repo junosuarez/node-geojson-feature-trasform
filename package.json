@@ -1,0 +1,30 @@
+{
+  "name": "geojson-feature-transform",
+  "version": "0.1.0",
+  "description": "an easy way to convert objects into GeoJSON Feature objects",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "dotmap": "~0.1.0",
+    "mochi": "~0.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:jden/node-geojson-feature-trasform.git"
+  },
+  "keywords": [
+    "geojson"
+  ],
+  "author": "jden <jason@denizac.org>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jden/node-geojson-feature-trasform/issues"
+  },
+  "homepage": "https://github.com/jden/node-geojson-feature-trasform"
+}
